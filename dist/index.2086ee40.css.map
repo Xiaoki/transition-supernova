@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["dev/Happyship/transition-supernova/style.css"],"sourcesContent":["body {\r\n    margin: 0;\r\n    width: 100vw;\r\n    height: 100vh;\r\n}\r\n\r\n#wrapper {\r\n    overflow: hidden;\r\n    width: 100%;\r\n    height: 100%;\r\n}"],"names":[],"version":3,"file":"index.2086ee40.css.map","sourceRoot":"/__parcel_source_root/"}

@@ -1,0 +1,20 @@
+{
+  "name": "transition-supernova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiaoki/transition-supernova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xiaoki/transition-supernova/issues"
+  },
+  "homepage": "https://github.com/Xiaoki/transition-supernova#readme"
+}
